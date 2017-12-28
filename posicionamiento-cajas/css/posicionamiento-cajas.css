@@ -1,0 +1,49 @@
+.big-square{
+  width: 800px;
+  height: 800px;
+}
+
+.medium-square{
+  width: 400px;
+  height: 400px;
+}
+
+.small-square{
+  width: 200px;
+  height: 200px;
+}
+
+.red{
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.black {
+  background-color: black;
+}
+
+.green {
+  background-color: green;
+}
+
+.box1-position {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.box2-position {
+  position: absolute;
+  margin-left: 200px;
+
+}
